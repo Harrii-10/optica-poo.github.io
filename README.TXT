@@ -9,23 +9,23 @@ En su labor como programador de software ha sido elegido para el desarrollo de u
 ## Historia de Usuario Jira
 Aproximación Plantilla Historia de Usuario:
 
-![historia]()
+![historia_usuario](https://github.com/Harrii-10/optica-poo.github.io/assets/136661680/b54911e9-cad4-4635-8e42-04773acca440)
 
 
 ## Caso de Uso
 Aproximación Caso de Uso:
 
-![caso]()
+![caso_uso](https://github.com/Harrii-10/optica-poo.github.io/assets/136661680/b22b3730-2f14-4267-aa38-f710a83e2c73)
 
 ## Diagrama de Flujo - Pseint
 Aproximación Diagrama de Flujo:
 
-![dfd]()
+![ddf](https://github.com/Harrii-10/optica-poo.github.io/assets/136661680/15d131f4-7d01-4be3-8c1b-d09c234fe002)
 
 ## Pseudocódigo
-Aproximación  Pseudocódigo::
+Aproximación  Pseudocódigo:
 
-![pse]()
+![pse](https://github.com/Harrii-10/optica-poo.github.io/assets/136661680/cef08a67-0b1d-48e0-a4a7-d5a6186aca79)
 
 > HARRISON IVAN ESCOBAR TAFUR
 >INGENIERIA DE SISTEMAS
