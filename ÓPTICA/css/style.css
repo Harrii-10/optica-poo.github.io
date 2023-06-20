@@ -1,0 +1,44 @@
+.banner{
+	text-align: center;
+	padding-top: 1em;
+}
+body{
+	background: #03001C;
+}
+#main{
+	background: #301E67;
+	max-width: 90%;
+	margin: auto auto;
+	border-radius: 5px;
+	border: 1px solid #000;
+}
+.container{
+	background: #301E67;
+	max-width: 90%;
+	margin: auto auto;
+	margin-top: 3px;
+	border-radius: 5px;
+	border: 1px solid #000;
+	text-align: center;
+}
+.titulos{
+	margin-top: 1em;
+	text-align: center;
+	font-size: 28px;
+	font-family: 'Press Start 2P', cursive;
+	color: #1E5;
+}
+.parrafo{
+	text-align: center;
+	font-size: 20px;
+	line-height: 2;
+	color: #4ECCA3;
+	font-family: 'Turret Road', cursive;
+}
+footer{
+	background: #301E67;
+	color: #1E5;
+	margin: auto auto;
+	max-width: 25%;
+	border-radius: 5px;
+}
