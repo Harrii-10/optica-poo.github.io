@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=ClienteDiscap
+comment1.params=id\ nom\ caluno\ caldos\ caltres\ calcuatro
+comment1.target=ClienteDiscap(java.lang.String,\ java.lang.String,\ double,\ double,\ double,\ double)
+comment10.params=calcuatro
+comment10.target=void\ setCalcuatro(double)
+comment2.params=
+comment2.target=double\ calcularProm()
+comment3.params=
+comment3.target=double\ getCaluno()
+comment4.params=caluno
+comment4.target=void\ setCaluno(double)
+comment5.params=
+comment5.target=double\ getcaldos()
+comment6.params=caldos
+comment6.target=void\ setCaldos(double)
+comment7.params=
+comment7.target=double\ getcaltres()
+comment8.params=caltres
+comment8.target=void\ setCaltres(double)
+comment9.params=
+comment9.target=double\ getcalcuatro()
+numComments=11
