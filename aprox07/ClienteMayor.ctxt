@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ClienteMayor
+comment1.params=id\ nom\ caluno\ caldos\ caltres
+comment1.target=ClienteMayor(java.lang.String,\ java.lang.String,\ double,\ double,\ double)
+comment2.params=
+comment2.target=double\ calcularProm()
+comment3.params=
+comment3.target=double\ getCaluno()
+comment4.params=caluno
+comment4.target=void\ setCaluno(double)
+comment5.params=
+comment5.target=double\ getcaldos()
+comment6.params=caldos
+comment6.target=void\ setCaldos(double)
+comment7.params=
+comment7.target=double\ getcaltres()
+comment8.params=caltres
+comment8.target=void\ setCaltres(double)
+numComments=9
