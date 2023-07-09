@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ControllerCliente
+comment1.params=
+comment1.target=ControllerCliente()
+comment2.params=cliente
+comment2.target=void\ registrar(Cliente)
+comment3.params=cliente
+comment3.target=void\ actualizar(Cliente)
+comment4.params=cliente
+comment4.target=void\ eliminar(Cliente)
+comment5.params=
+comment5.target=void\ verClientes()
+comment6.params=dni
+comment6.target=Cliente\ obtenerClientePorDni(int)
+comment7.params=mensaje\ e
+comment7.target=void\ mostrarError(java.lang.String,\ java.lang.Exception)
+numComments=8

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ViewCliente
+comment1.params=cliente
+comment1.target=void\ verCliente(Cliente)
+comment2.params=clientes
+comment2.target=void\ verClientes(java.util.List)
+numComments=3

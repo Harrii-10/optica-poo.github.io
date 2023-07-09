@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=ClienteCRUD
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=message
+comment10.target=java.lang.String\ leerString(java.lang.String)
+comment2.params=
+comment2.target=void\ registrarCliente()
+comment3.params=
+comment3.target=void\ actualizarCliente()
+comment4.params=
+comment4.target=void\ eliminarCliente()
+comment5.params=
+comment5.target=void\ listarClientes()
+comment6.params=
+comment6.target=void\ consultarClientePorDNI()
+comment7.params=
+comment7.target=Cliente\ guardarCliente()
+comment8.params=
+comment8.target=int\ leerDni()
+comment9.params=message
+comment9.target=double\ leerCalificacion(java.lang.String)
+numComments=11

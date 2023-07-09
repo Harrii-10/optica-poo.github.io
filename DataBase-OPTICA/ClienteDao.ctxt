@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ClienteDao
+comment1.params=cliente
+comment1.target=boolean\ registrarCliente(Cliente)
+comment2.params=
+comment2.target=java.util.List\ obtenerClientes()
+comment3.params=cliente
+comment3.target=boolean\ actualizarCliente(Cliente)
+comment4.params=cliente
+comment4.target=boolean\ eliminarCliente(Cliente)
+comment5.params=dni
+comment5.target=Cliente\ obtenerClientePorDni(int)
+numComments=6
