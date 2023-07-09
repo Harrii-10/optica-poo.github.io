@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Optica
+comment1.params=nit\ nomOp\ direc
+comment1.target=Optica(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNit()
+comment3.params=
+comment3.target=java.lang.String\ getNomOp()
+comment4.params=nomOp
+comment4.target=void\ setNomOp(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getDirec()
+comment6.params=direc
+comment6.target=void\ setDirec(java.lang.String)
+comment7.params=
+comment7.target=int\ encuestados()
+comment8.params=
+comment8.target=double\ calcularPromGen()
+comment9.params=id\ nom\ caluno\ caldos\ caltres
+comment9.target=void\ adicionarCliente(java.lang.String,\ java.lang.String,\ double,\ double,\ double)
+numComments=10
